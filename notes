@@ -1,0 +1,191 @@
+for project creation
+
+spring starter project->add dependency(spring web,validation,lombok,mysql,jpa)
+
+create packages(model,service,controller,repository,exceptions,dto)
+
+add model ->entity class(@data,@entity,@id)
+
+in repository > create interface > extend with JpaRepository
+
+in service > interface service and its implementation class for service (Add all the required functions)
+
+in colntroller >for all the methods in service
+
+in exception>create required exceptions
+
+add required annotations 
+
+application properties db details
+
+CLIENT SIDE LOAD BALANCING ->@LOADBALANCE IN REST TEMPLATE ,right click (duplicate config)and create more instance
+
+right click on new instance ->pop up->arguments(vm arguments) -DServer.port=8083 apply and close
+
+OPEN FIEGN ->WEB SERVICE EASIER,NO HARD CODE IN JAVA,
+
+@EnableFeignClients,
+
+add openfeign dependecy from where we need to give call
+
+create one interface for feignclient
+
+add the methods  and call them
+
+config server
+
+create spring starter project with config server dependency and add annotation @EnableConfigServer
+in github add your properties application.properties in github
+add dependency config clients in other modules ,along with config server port number ,if you got error add valiation=false
+
+api gateway - single entrypoint for client to interact with multiple microservice ,one time implementation of security
+
+simplify client experience
+
+manage complexities of backend (authentication,security)
+
+
+
+1.create starter prj > apigateway
+
+2.add dependency gateway and in pom.xml remove "-mvc",eureka discovery client
+
+3.api configuration properties{id,uri,predicates}
+
+lb->load balancing in uri
+
+server.port=9090
+
+spring.cloud.gateway.routes[0].id=DEPARTMENTSERVICE
+
+spring.cloud.gateway.routes[0].uri=lb://DEPARTMENTSERVICE
+
+spring.cloud.gateway.routes[0].predicates[0]=Path=/department/**
+
+Angular 
+
+->create prj  ng new project_name  
+
+-> run ng serve -o
+
+->Creating SPA single page application using components
+
+->components building block of application 
+
+str -> ts,html.css.spec.ts
+
+default component - app(app.component.ts,...html....css....spec.ts)
+
+by default inside app.component.ts <app-root> </app-root>(it can be anything) angular root selector name where program starts from index.html
+
+
+
+@Component is a  decorator tell angular that it is  a component and contains meta data 
+
+->creating component->it will be child of app component
+
+
+
+stop server
+
+ng generate component cname
+
+->data binding model -ts btw  view html {{var name}} binding expression
+
+angular directives
+
+@for,@if,@switch
+
+
+
+@Injectable ->service class decorator
+
+router service class -> navigate
+
+predefined service class utilization
+
+router service navigation among views and url manipulation
+
+create a constructor with router parameter for using router service dependency injection in app component
+
+this.router.navigate(["url"]) method for navigation
+
+
+
+HttpClient injectable service class
+
+this.client.get("url")
+
+used for http request to backend using get,put,post,delete meethods
+
+
+
+JSON server to watch
+
+json-server --watch users.json
+
+in app-config.td add provideHttpClient()
+
+js->single threaded synchronous
+
+difference between observable and promise
+
+observable multiple obj,methods to wrk with grp of objects,lazy(jsx )
+
+promise single obj,eager,
+
+---------------------------------------------------------------------------    
+
+angular to connect with other service we us @Crossorigin(*) annotation in backend
+
+debugging in front end -> ctrl+shift+i ->network(when making server call)->check name details preview/response/payload(sending data)
+
+by default angular expect reponse as string so whenever we are returning we need to give {reponsetype:'text'} in http client call
+
+
+
+Parent to child(@input)
+
+add->components in app-route
+
+parent component import child component
+
+in parent.html use selector <child [var]="parent_var"></child>
+
+ in child component  @input() var:string
+
+
+
+child to parent (@output eventemitter)
+
+in child need to create an event like button with click event calling a method sendToParent
+
+create event emitter obj
+
+@Output() messageToPArent=new EventEmitter
+
+to receive data in parent write @output var  
+
+<child (messageToParent) 
+
+
+
+
+
+
+
+-------------------------------------------------------------
+
+auth gaurd
+
+ng g g auth
+
+
+
+canActivate(),canDeavtice(0,canActivateChild(),canMatch give space and select option, then click enter
+
+
+
+modify the return statement of gaurd as ler requirement
+
+in app route.ts after path,component givr canActivate:[authGaurd]
