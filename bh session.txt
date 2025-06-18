@@ -1,0 +1,209 @@
+18.04.2025
+imprompto session ->jam(just a minute)
+methods-2
+1)think about three things about a topic and ellobarate it dynamically
+2)bompering with n num of questions
+>giving content a structure ->intro,body,conclusion
+first thing what i do?
+secondly
+thirdly 
+finally
+
+------------------------------------------------------
+mother tongue influence (we think in native language and translating)
+fillers -> being aware,record convo and listen,analyse,
+nervousness -> focus on topic
+grammar 
+-------------------------------------------------------
+24.04.2025
+learning agility - earn quickly from experiences and adapt to new or challenging situations.
+
+5 things -> Mental Agility, People Agility, Change Agility, Results Agility, and Self-Awareness
+
+Mental Agility - approach challenges with an open mind,come out with ideas to resolve (out of box,creative thinking)
+
+People Agility - ability to understand and relate to other people even in challenging situations
+capitalize on strength and help others in the negative situation
+
+Change Agility - seeing challenges as opportunities for growth and being adaptable to new situations
+
+Results Agility - emphasizes the drive to deliver results in new or challenging situations
+
+Self-Awareness - foundation of learning agility, as it involves understanding one's strengths, weaknesses, values, and motivations.
+ability to understand yourself
+
+--------------"begin with the end in mind"
+
+
+fixed mindset and growth mindset
+
+Let's consider two students, Meera and Arjun, to illustrate the impact of these mindsets on learning mathematics.
+
+fixed - 
+Meera struggles with algebra and believes that her math abilities are fixed. When faced with a difficult algebra problem, she thinks, "I'm just not good at math. I'll never understand this." Because of this belief, Meera avoids practicing algebra problems and doesn't seek help, leading to poor performance in math class.
+
+growth
+On the other hand, Arjun also finds algebra challenging but has a growth mindset. When he encounters a difficult problem, he thinks, "This problem is challenging, but I can improve if I keep practicing and ask for help." Arjun seeks help from the teacher, practices algebra problems regularly, and uses online resources to understand the concepts better. Over time, Arjun's math skills improve, and he becomes more confident in his ability to tackle challenging problems.
+----------------------------------
+5y technique,fish bone technique,
+problem solving
+critical thinking -> informed decision(purely evidence based,no bias,assumption)
+-----------------------------------
+elements of conference call:
+1. PURPOSE
+2.identify right set of people as attendee ->availability,medium
+3. AGENDA PREPARATION  
+4. ROLES PLAYED BY PEOPLE - time keeper,note taker-minute of meeting (mom)
+5. GENERAL CALL ETIQUETTE
+6. TECHNICALITIES
+7. ATTENTION AND ENGAGEMENT
+8. EVALUATION AND FEEDBACK
+ 
+ 
+ESCALATION HANDLING TECHNIQUES 
+4A method of escalation handling
+1.Attitude
+2.Acknowledge
+3.Agreement
+4.Action
+
+-------------------------------------
+2.5.2025
+
+	grammar
+"set of rules" or "syntax"
+language -> critical for communication
+
+	effective sentence construction
+-parts of speech
+-tenses
+-subject verb agreement
+-active/passive voice
+-diction usage
+-punctuation
+
+---------------------------------------
+sentence - group of words that make sentence
+each word play a role in sentence based on role we have ccategories->parts of speech
+parts of speech (categories that classify words based on function in sentence)
+
+Noun: A word that names a person, place, thing, or idea (e.g., "dog," "city," "table," "happiness"). 
+common noun,proper noun,abstract noun,collection noun,countable and uncountable noun
+
+Pronoun: A word that replaces a noun (e.g., "he," "she," "it," "they"). 
+
+Adjective: A word that describes a noun or pronoun (e.g., "big," "blue," "happy"). 
+
+Verb: A word that expresses an action or state of being (e.g., "run," "be," "seem","am") - heart of English language
+helping verbs(is)or auxilary verbs,regular - irregular,transitive - intransitive
+verb related to time ->tenses
+
+Adverb: A word that modifies a verb, adjective, or another adverb (e.g., "quickly," "very," "loudly"). 
+
+Preposition: A word that shows the relationship between a noun or pronoun and other words in a sentence (e.g., "in," "on," "at," "to"). 
+types:preposition of time,place,direction(at specific,in )
+
+Conjunction: A word that connects words, phrases, or clauses (e.g., "and," "but," "or"). 
+Interjection: A word that expresses strong emotion (e.g., "Wow!", "Ouch!"). 
+-----------------------------------------
+ 6/5/25
+subject->who is the doer of the action?/what is been talked about
+verb->action
+object->who is the receiver of object
+sentence should essentially have subject and verb(SVA->subject verb agreement)
+rules
+1.subject is singular->verb should be singular or if the subject is plural -> verb should be plural
+works - singular, work is plural
+2.when pronoun "you" stands for noun verb can be plural
+3.two subject joined by an and then we should treat is as plural
+4.if we have singular subject followed by words with,as well as,in addition to, accompanied by,together with,along with,then the verbs is singular
+5.if a sentence begin with HERE or THERE ,the verb should agree with the subject which follows it
+6.when either or neither stands as subject then verb should be singular
+7.when subjects either/or or neither/nor,the verb should agree with nearest subject
+8.indefinite pronouns some,most,all,none are singular or plural according to subject
+
+9.expression of time ,money,weight and distance are singular even if the form is plural
+10.words like pants,trousers,jeans stands as subject verb be plural ,if we use the word "pair" then it is singular 
+
+----------------------------------------------
+story telling
+active listening,
+think through
+----------------------------------------------
+group discussion
+
+-------------------------------------------
+email writing
+from mail
+recipient mail->cc,bcc
+subject
+dear name,
+body,
+
+signature
+regards 
+name
+designation
+contact
+organization
+
+------------------------------------------------------------------
+Project Simulation
+
+Automate data processing
+Ensure data quality
+overview->
+client to project manager
+project manager to client (project kickoff)
+manager to team lead
+team lead to team members
+team members to lead
+
+project stages
+1.requirement gathering and planning
+2.infra structure setup
+3.developing
+4.testing
+5.deploying
+6.continous 
+
+conflict resolution
+-preparation
+-active listening
+-stay neutral
+-identify common goals
+-encourage open communication
+-problem solving approach
+-follow up
+
+project delivery meeting
+objective->align stakeholders on project outcomes and review key accomplishments
+meeting agenda->show case improvements,summarize project goals and objectives,highlight major achievements,review delivered product,feedback
+outcome->client approval,successfull delivery,enhanced capabilities
+challenges faced and solution taken
+
+client appreciation mail to project manager
+
+conclusion
+successful delivery
+key accomplishment
+client satisfaction
+future recommendation
+
+--------------------------------------------------------------------------------------------------------
+
+
+
+
+
+testers -2 			(brindha,meena)
+developers fronend -3		(varshini,vikash,nazeem)
+backend -3			(pravin,lalith,shankar)
+deployment -1			(ajay)
+(jaishree)
+
+
+
+
+
+
